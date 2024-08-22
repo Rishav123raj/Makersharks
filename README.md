@@ -28,8 +28,8 @@ Before running the application, ensure you have the following installed:
 
 # Running the Application
 1. Clone the Repository
-   git clone https://github.com/Rishav123raj/Makesharks.git
-   cd Makesharks
+   1. git clone https://github.com/Rishav123raj/Makersharks.git
+   2. cd Makesharks
    
 2. Configure the Database
   Open the src/main/resources/application.properties file.
