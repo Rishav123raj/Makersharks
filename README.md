@@ -32,8 +32,8 @@ Before running the application, ensure you have the following installed:
    2. cd Makesharks
    
 2. Configure the Database
-  Open the src/main/resources/application.properties file.
-  Update the following properties to match your database configuration:
+  1. Open the src/main/resources/application.properties file.
+  2. Update the following properties to match your database configuration:
   properties
   Copy code
   spring.datasource.url=jdbc:mysql://localhost:3306/makersharks_db
