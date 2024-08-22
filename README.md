@@ -7,12 +7,12 @@ nature of business, and manufacturing processes. The API is built using Spring B
 /api/supplier/query [POST]: This endpoint retrieves a list of manufacturers (suppliers) based on the specified location, nature of business, and manufacturing processes.
 
 # Supplier Details:
-supplier_id: Unique identifier for each supplier.
-company_name: Name of the supplier company.
-website: Supplier's website.
-location: City where the supplier is located.
-nature_of_business: Type of business, with possible values being small_scale, medium_scale, or large_scale.
-manufacturing_processes: Types of manufacturing processes the supplier can perform, with possible values being moulding, 3d_printing, casting, and coating.
+1. supplier_id: Unique identifier for each supplier.
+2. company_name: Name of the supplier company.
+3. website: Supplier's website.
+4. location: City where the supplier is located.
+5. nature_of_business: Type of business, with possible values being small_scale, medium_scale, or large_scale.
+6. manufacturing_processes: Types of manufacturing processes the supplier can perform, with possible values being moulding, 3d_printing, casting, and coating.
 
 # Key Features:
 Pagination: Handles large datasets by paginating the results.
