@@ -15,16 +15,16 @@ nature of business, and manufacturing processes. The API is built using Spring B
 6. manufacturing_processes: Types of manufacturing processes the supplier can perform, with possible values being moulding, 3d_printing, casting, and coating.
 
 # Key Features:
-Pagination: Handles large datasets by paginating the results.
-Validation: Ensures that the input parameters are correctly formatted.
-Exception Handling: Implements proper error handling for invalid requests.
+1. Pagination: Handles large datasets by paginating the results.
+2. Validation: Ensures that the input parameters are correctly formatted.
+3. Exception Handling: Implements proper error handling for invalid requests.
 
 # Prerequisites
 Before running the application, ensure you have the following installed:
-Java 17 or higher
-Maven 3.6.3 or higher
-Git (to clone the repository)
-MySQL (or any other database of your choice)
+1. Java 17 or higher
+2. Maven 3.6.3 or higher
+3. Git (to clone the repository)
+4. MySQL (or any other database of your choice)
 
 # Running the Application
 1. Clone the Repository
